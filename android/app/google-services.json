@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948896125864",
+    "project_id": "rentalhood-45479",
+    "storage_bucket": "rentalhood-45479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948896125864:android:bd3e97cabef625a23b439d",
+        "android_client_info": {
+          "package_name": "com.example.rentalhood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948896125864-k6n84kbia5d7onb759769so9k3oh6rhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCFCDgShceEDPKDiuCe4QDttBCZ0zVK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948896125864-k6n84kbia5d7onb759769so9k3oh6rhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
